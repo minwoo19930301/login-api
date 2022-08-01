@@ -33,3 +33,17 @@ replay_pid*
 
 #build
 build/*
+
+#others
+login-api.iml
+.idea/vcs.xml
+.idea/runConfigurations.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/aws.xml
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/7.5/fileHashes/fileHashes.lock
+.gradle/7.5/executionHistory/executionHistory.lock
